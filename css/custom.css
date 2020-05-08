@@ -4,11 +4,12 @@ figure {
   margin: 0;
 }
 
-h1 {
-  font-weight: bold;
-}
 
 /* Links */
+body {font-family: 'Oswald', sans-serif;
+}
+
+
 
 a {
   text-decoration: underline;
@@ -19,3 +20,8 @@ a {
 figcaption {
   font-size: 90%;
 }
+body {
+  max-width: 60rem;
+  background-color: #e6ffe6;
+  padding: 5%;
+  margin: 0 auto;
